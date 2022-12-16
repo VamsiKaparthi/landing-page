@@ -70,3 +70,14 @@ p.hero-sec{
     text-align: center;
     font-weight: bold;
 }
+.header_intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+img{
+    color: #F9FAF8;
+    width: 50vh;
+    height: auto;
+    text-align: center;
+}
