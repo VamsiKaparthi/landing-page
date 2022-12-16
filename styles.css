@@ -183,3 +183,10 @@ p.bar-desc{
     border-color: whitesmoke;
     background-color: #3882F6;
 }
+.footer{
+    text-align: center;
+    color: #E5E7EB ;
+    background-color: #1F2937;
+    padding: 30px;
+    font-size: 10px;
+}
